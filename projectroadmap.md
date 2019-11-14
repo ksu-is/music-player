@@ -1,5 +1,5 @@
-1. [] Fix imports to correct versions
-2. Add code documentation
+1. [ ] Fix imports to correct versions
+2. [x] Add code documentation
 3. [Placeholder]
 4. [Placeholder]
 5. [Placeholder]
